@@ -909,9 +909,13 @@ ul {
 
 .overlay-menu {
     position: relative;
-    top: 50%;
+    top: 30%;
     text-align: center;
-    transform: translateY(-50%);
+/*    position: fixed;
+    top: 0;
+    height: 100;
+    text-align: center;
+    transform: translateY(-50%);*/
 }
 
 .overlay-menu ul {
@@ -957,7 +961,7 @@ ul {
 
 .overlay-menu ul li.active > a, .overlay-menu ul li a:hover {
     color: #ff594f;
-    text-decoration: line-through;
+   
 }
 
 .fs-button {
