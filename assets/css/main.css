@@ -908,7 +908,11 @@ ul {
 }
 
 .overlay-menu {
-    
+    position: fixed;
+    top: 50%;
+    left: 40%;
+    text-align: center;
+    transform: translateY(-50%);
 /*    position: fixed;
     top: 0;
     height: 100;
