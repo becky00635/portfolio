@@ -908,9 +908,7 @@ ul {
 }
 
 .overlay-menu {
-    position: relative;
-    top: 30%;
-    text-align: center;
+    
 /*    position: fixed;
     top: 0;
     height: 100;
