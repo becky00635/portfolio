@@ -217,16 +217,17 @@ img {
 
 .resume {
 
-    background-color: #f267f2;
+    background-color: #66B3FF;
     width: 80px;
     height: 30px;
-    margin-bottom: 1%;
+    margin-bottom: 5%;
 }
 
 .resume p {
 
    color: #ffffff; 
    margin: auto; 
+   font-family: "Avenir"
 }
 
 .resume:hover {
