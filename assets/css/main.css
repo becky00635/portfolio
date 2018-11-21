@@ -214,6 +214,28 @@ img {
     margin-bottom: 5%;
 }
 
+
+.resume {
+
+    background-color: #f267f2;
+    width: 80px;
+    height: 30px;
+    margin-bottom: 1%;
+}
+
+.resume p {
+
+   color: #ffffff; 
+   margin: auto; 
+}
+
+.resume:hover {
+
+    color: blue;
+
+}
+
+
 @media (max-width: 991px) {
     .table-responsive-02 table, .table-responsive-02 thead,
     .table-responsive-02 tbody, .table-responsive-02 th, .table-responsive-02 td,
