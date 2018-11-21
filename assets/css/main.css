@@ -217,7 +217,7 @@ img {
 
 .resume {
 
-    background-color: #66B3FF;
+    background-color: #1E90FF;
     width: 80px;
     height: 30px;
     margin-bottom: 5%;
@@ -230,9 +230,12 @@ img {
    font-family: "Avenir"
 }
 
-.resume:hover {
+.resume:hover{
 
-    color: blue;
+     background-color: #66B3FF;
+    color: #000;
+   
+
 
 }
 
