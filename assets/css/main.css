@@ -1920,7 +1920,7 @@ ul {
 .ef-slide-top .hb_front, .ef-slide-right .hb_front, .ef-slide-bottom .hb_front,
 .ef-slide-left .hb_front {
     transform: translate(0, 0);
-    transition: all .3s cubic-bezier(.5, .72, .24, .94);
+    transition: all .5s cubic-bezier(.5, .72, .24, .94);
 }
 
 .ef-slide-top .hb_back, .ef-slide-right .hb_back, .ef-slide-bottom .hb_back,
