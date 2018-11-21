@@ -220,7 +220,7 @@ img {
     background-color: #1E90FF;
     width: 80px;
     height: 30px;
-    margin-bottom: 5%;
+   
 }
 
 .resume p {
@@ -284,7 +284,7 @@ a {
 }
 
 a:hover {
-    text-decoration: line-through;
+
     color: #ff594f;
 }
 
@@ -359,7 +359,7 @@ hr {
 .md-btn:hover {
     background-color: #ebebeb;
     color: #000;
-    text-decoration: line-through;
+    
 }
 
 .md-btn[disabled] {
