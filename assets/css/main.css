@@ -239,6 +239,29 @@ img {
 
 
 }
+.full {
+
+    background-color: #1E90FF;
+    width: 100px;
+    height: 30px;
+   
+}
+
+.full p {
+
+   color: #ffffff; 
+   margin: auto; 
+   font-family: "Avenir"
+}
+
+.full:hover{
+
+     background-color: #66B3FF;
+    color: #000;
+   
+
+
+}
 
 
 @media (max-width: 991px) {
