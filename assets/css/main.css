@@ -239,6 +239,9 @@ img {
 
 
 }
+.dropshadowimg
+                                        { width:1000px;
+                                        box-shadow: 5px 5px 5px #999; }
 .full {
 
     background-color: #1E90FF;
